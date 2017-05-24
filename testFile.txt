@@ -1,2 +1,3 @@
 This is the Dummy File to test out the Git operations.
 adding some more message.
+This line is added from cmd prompt.
